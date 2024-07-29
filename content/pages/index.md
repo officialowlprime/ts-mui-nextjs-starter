@@ -17,7 +17,7 @@ sections:
         color: primary
       - type: Button
         label: Know More
-        url: 'https://docs.netlify.com/visual-editor/overview/'
+        url: 'https://www.owlprime.com/'
         size: large
         variant: outlined
         color: primary
