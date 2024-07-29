@@ -6,9 +6,8 @@ sections:
     title: Best Digital Marketing Agency in Thane
     subtitle: 360 Degree - Digital Marketing Solutions
     text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
-      more.](https://docs.netlify.com/visual-editor/local-development/)
+      Let’s increase the reach and Visibility of your Business. [Learn
+      more.](https://www.owlprime.com/)
     actions:
       - type: Button
         label: Start Building
