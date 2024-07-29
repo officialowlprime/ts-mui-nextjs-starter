@@ -10,7 +10,7 @@ sections:
       more.](https://www.owlprime.com/)
     actions:
       - type: Button
-        label: Start BuildingA
+        label: Call Now
         url: 'https://docs.netlify.com/visual-editor/get-started/'
         size: large
         variant: contained
