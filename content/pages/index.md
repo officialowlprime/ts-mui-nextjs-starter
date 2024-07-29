@@ -11,7 +11,7 @@ sections:
     actions:
       - type: Button
         label: Call Now
-        url: 'https://docs.netlify.com/visual-editor/get-started/'
+        url: 'tel:'
         size: large
         variant: contained
         color: primary
