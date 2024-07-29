@@ -4,7 +4,7 @@ type: Page
 sections:
   - type: HeroSection
     title: Best Digital Marketing Agency in Thane
-    subtitle: 'Featuring TypeScript, Next.js, MUI v5 & Emotion'
+    subtitle: 360 Degree - Digital Marketing Solutions
     text: >
       This is the HeroSection component. You can visually edit this component &
       add more sections while developing locally. [Learn
