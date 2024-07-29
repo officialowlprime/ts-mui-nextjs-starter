@@ -11,7 +11,7 @@ sections:
     actions:
       - type: Button
         label: Call Now
-        url: 'tel:'
+        url: 'tel:+917021340717'
         size: large
         variant: contained
         color: primary
